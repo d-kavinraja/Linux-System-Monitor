@@ -88,7 +88,8 @@ Enable logging:
 3. **Alerts**: Warnings when thresholds are exceeded
 4. **Top Processes**: Top 5 CPU-consuming processes
 5. **Status Bar**: Last update timestamp
-![output](./Images/Screenshot%20From%202026-02-10%2021-08-21.png)
+
+    ![output](./Images/Screenshot%20From%202026-02-10%2021-08-21.png)
 
 ## Configuration
 
